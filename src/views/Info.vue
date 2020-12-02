@@ -1,7 +1,8 @@
 <template>
   <div class="info">
-    <div>Created by <a href="https://github.com/toastsgithub">zmou</a></div>
-    <div>Powered by <a href="https://pqina.nl/flip/">@pqina/flip</a></div>
+    <div>Github: <a target="_blank" href="https://github.com/toastsgithub/mr-clock">mr-clock</a></div>
+    <div>Created by: <a href="https://github.com/toastsgithub">zmou</a></div>
+    <div>Powered by: <a href="https://pqina.nl/flip/">@pqina/flip</a></div>
   </div>
 </template>
 
